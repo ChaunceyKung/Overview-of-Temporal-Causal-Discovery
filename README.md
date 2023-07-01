@@ -8,8 +8,7 @@ According to whether the data is calibrated, the temporal data for causal discov
 
 
 
-
-A survey on causal discovery from temporal data can be found [here](https://arxiv.org/abs/2303.10112).
+A survey on causal discovery from temporal data can be found [here](https://arxiv.org/abs/2303.10112). Its framework is illustrated as follows:
 
 
 
